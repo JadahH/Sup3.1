@@ -1,3 +1,3 @@
-def rectangle_area():
+def rectangle_area(l, w):
         pass 
-chore: declared rectangle_area
+

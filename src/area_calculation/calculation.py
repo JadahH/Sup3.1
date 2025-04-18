@@ -5,6 +5,9 @@ def rectangle_area(l, w):
 
         :param l float: The length of the rectangle
         :param w float: The width of the rectangle
+
+        Returns: 
+        The area of a rectangle
         '''
         if l == w:
                 return l * l 
@@ -15,6 +18,9 @@ def rectangle_area(l, w):
 
         :param b float: base of the triangle
         :param h float: height of the triangle
+
+        Returns: 
+        The area of a triangle
         '''
 
 def triangle_area(b, h): 
@@ -24,6 +30,9 @@ def triangle_area(b, h):
         Caculates the area of a circle. 
 
         :param r float: radius of the circle
+
+        Returns: 
+        The area of a cricle
         '''
 
 def circle_area(r): 

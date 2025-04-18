@@ -20,5 +20,11 @@ def rectangle_area(l, w):
 def triangle_area(b, h): 
         return b * h * 0.5
 
+'''
+        Caculates the area of a circle. 
+
+        :param r float: radius of the circle
+        '''
+
 def circle_area(r): 
         return 3.14 * r * r

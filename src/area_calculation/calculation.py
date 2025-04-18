@@ -10,5 +10,12 @@ def rectangle_area(l, w):
                 return l * l 
         return l * w
 
+'''
+        Caculates the area of a triangle. 
+
+        :param b float: base of the triangle
+        :param h float: height of the triangle
+        '''
+
 def triangle_area(b, h): 
         return b * h * 0.5

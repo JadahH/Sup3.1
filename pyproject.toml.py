@@ -7,4 +7,4 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/area_caculation"]
+package = ["src/area_calculation"]

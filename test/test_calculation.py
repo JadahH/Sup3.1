@@ -1,4 +1,4 @@
-from area_caculation.calculation import rectangle_area
+from area_calculation.calculation import rectangle_area
 
 
 def test_rectangle_of_different_dimmensions():

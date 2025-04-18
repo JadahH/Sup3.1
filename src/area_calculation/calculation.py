@@ -20,5 +20,5 @@ def rectangle_area(l, w):
 def triangle_area(b, h): 
         return b * h * 0.5
 
-def circle_area(b, h): 
-        pass 
+def circle_area(r): 
+        return 3.14 * r * r

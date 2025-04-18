@@ -11,4 +11,4 @@ def test_triangle_area():
     assert triangle_area(5,4) == 10
 
 def test_cirle_area():
-    assert circle_area(4) == 12.56
+    assert circle_area(4) == 50.24
